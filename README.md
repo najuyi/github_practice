@@ -9,7 +9,7 @@ A repository with which to practice using git.
 
 ### What is your favorite color?
 
-> Answer goes here
+> Red
 
 ### What is your favorite ice cream?
 
